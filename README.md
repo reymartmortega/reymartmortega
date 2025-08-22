@@ -7,12 +7,10 @@
 
 • 🎯 To develop strong computer skills.
 
-• 🌐 Interested in Computer Networking, Trading and Finance.
+• 🌐 Interested in Computer Networking. 
 
 ### Skills
 • Networking Basics  
-
-• Basic Crypto Trading  
 
 ### Connect with Me
 • Email: reymarttmortega@gmail.com 
