@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Reymart!
 
-<!--
-**reymartmortega/reymartmortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+• 🖥️ BSIT Student at Laguna State Polytechnic University
+• 🧠 Currently learning Computer Networking
+• 🎯 To develop strong computer skills while gaining expertise in Trading and Finance
+• 🌐 Interested in Computer Networking, Trading and Finance
 
-Here are some ideas to get you started:
+Skills
+• Networking Basics
+• Basic Crypto Trading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact with me
+Email: reymarttmortega@gmail.com
