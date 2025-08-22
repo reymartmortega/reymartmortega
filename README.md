@@ -5,7 +5,7 @@
 
 • 💻 Currently learning Computer Networking.
 
-• 🎯 To develop strong computer skills while gaining expertise in Trading and Finance.
+• 🎯 To develop strong computer skills.
 
 • 🌐 Interested in Computer Networking, Trading and Finance.
 
