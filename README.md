@@ -7,7 +7,7 @@
 • 🌐 Interested in Computer Networking, Trading and Finance.
 
 ### Skills
-• LlNetworking Basics  
+• Networking Basics  
 • Basic Crypto Trading  
 
 ### Connect with Me
