@@ -11,6 +11,7 @@
 
 ### Skills
 • Networking Basics  
+• UI/UX
 
 ### Connect with Me
 • Email: reymarttmortega@gmail.com 
